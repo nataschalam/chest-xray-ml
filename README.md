@@ -1,7 +1,7 @@
 # Chest X-Ray Disease Classification with VGG16
 This repository contains a PyTorch-based deep learning pipeline for binary disease detection from chest X-ray (CXR) images using transfer learning with VGG16. The model classifies X-ray images into: (1) No Finding (healthy) or (2) Disease present (any pathology)
 
-The project includes dataset preprocessing, stratified data splitting, model training with early stopping, comprehensive evaluation metrics, and visual diagnostics.
+The project includes dataset preprocessing, stratified data splitting, model training with early stopping, comprehensive evaluation metrics, and visual diagnostics. PyData Stack used and libraries used for evaluation and visualisation include scikit-learn, matplotlib, seaborn, pandas
 
 ## Data
 - This project uses a freely-accessible chest x-ray dataset provided by the NIH Clinical Center: https://nihcc.app.box.com/v/ChestXray-NIHCC
