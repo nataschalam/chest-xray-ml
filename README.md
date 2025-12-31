@@ -45,7 +45,7 @@ CSV Files
 - K-fold cross validation on subset of dataset
 
 ## How to Run Analysis
-1. Run the script called: `image_download.ipynb`
-2. Run the script called `gz_extraction.ipynb`
-3. Run the script called `creating_merged_dataset.ipynb`
-4. Run the script called `vgg_model.ipynb`
+1. Run the script called: `image_download.py`
+2. Run the script called `gz_extraction.py`
+3. Run the script called `creating_merged_dataset.py`
+4. Run the script called `vgg_model.py`
